@@ -7,5 +7,5 @@ Ahora que tiene minimo 1 archivo si se puede.
 
 ¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
 
-Porque se puede eliminar información importante en alguno de los archivos que se esten modificando y más si ambos son igualmente complejos.
+Porque se pueden generar conflictos dentro del control de versiones y/o  eliminar información importante en alguno de los archivos que se esten modificando y más si ambos son igualmente complejos.
 
